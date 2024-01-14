@@ -6,15 +6,7 @@
 ### Contexte
 Des users story
 
-### Guide d'installation
-Maintenant que vous avez réussi à développer quelques requêtes SQL répondant aux besoins de votre client, vous êtes en charge de développer une API REST en utilisant FastAPI pour exposer les résultats de vos requêtes.
-Référentiels
-
-
-
-## Ressources 
-
-
+### Ressources 
 
 <a href="https://fastapi.tiangolo.com/fr/tutorial/first-steps/" rel="nofollow">Premiers pas sur FastAPI</a>
 
@@ -45,7 +37,7 @@ Run the FastAPI application:
    Open your browser and go to http://127.0.0.1:8000/docs to access the Swagger documentation and test the API.
 
 
-<h3>Anaconda Jupyter Notebook</h3>
+### Anaconda Jupyter Notebook
 
 You can run the python program directly to Jupyter Notebook with the following file:
 03-fastAPI/FastAPI.ipynb		
