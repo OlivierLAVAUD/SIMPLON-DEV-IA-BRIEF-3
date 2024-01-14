@@ -1,5 +1,5 @@
 ﻿
-[FastAPI](brief3.jpg "FastAPI")
+[FastAPI](brief-3.jpg "FastAPI")
 
 # FastAPI - exposer les données de transactions immobilières via une API
 
