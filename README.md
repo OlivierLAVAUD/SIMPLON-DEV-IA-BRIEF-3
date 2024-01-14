@@ -10,27 +10,9 @@ Des users story
 Maintenant que vous avez réussi à développer quelques requêtes SQL répondant aux besoins de votre client, vous êtes en charge de développer une API REST en utilisant FastAPI pour exposer les résultats de vos requêtes.
 Référentiels
 
-### Ressource(s)
-* <a href="https://docs.google.com/spreadsheets/d/110DFqhV0eNhR1mzBkRR5DD6Aey-lgXuTlf3VeSzWD58/edit#gid=0" rel="nofollow">users story</a>
- * <a href="https://www.kaggle.com/datasets/benoitfavier/immobilier-france/data" rel="nofollow">Le dataset Kaggle"</a>
-
-
-En tant que dev IA, vous serez régulèrement amené à créer une ou plusieurs API Rest dans le cadre de vos projets.
-Vous allez réutiliser la base SQLite contenant la data immo comme lors du dernier Brief en ressource.
-
-​
-
-Vous utiliserez:
-
-    FastAPI pour la création de votre API + documentation
-    Sqlite3 pour vous connecter à la DB et executer des requêtes SQL
-    Swagger pour tester votre API
-
-​
 
 
 ## Ressources 
-
 
 
 
@@ -49,7 +31,7 @@ This FastAPI application allows you to explore a SQLite database through a set o
 
    Clone the repository to your local machine:
  ```
-	git clone https://github.com/OLV-DEV-IA/fastapi-chinook-explorer.git
+	git clone https://github.com/OlivierLAVAUD/SIMPLON-DEV-IA-BRIEF-3.git
 ```
 
 Install the required dependencies:
